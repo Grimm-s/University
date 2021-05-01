@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\NET.LAB3(2)\bin\Debug\NET.LAB3(2).exe.config
+C:\Users\Admin\source\repos\NET.LAB3(2)\bin\Debug\NET.LAB3(2).exe
+C:\Users\Admin\source\repos\NET.LAB3(2)\bin\Debug\NET.LAB3(2).pdb
+C:\Users\Admin\source\repos\NET.LAB3(2)\obj\Debug\NET.LAB3(2).csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\NET.LAB3(2)\obj\Debug\NET.LAB3(2).csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NET.LAB3(2)\obj\Debug\NET.LAB3(2).exe
+C:\Users\Admin\source\repos\NET.LAB3(2)\obj\Debug\NET.LAB3(2).pdb

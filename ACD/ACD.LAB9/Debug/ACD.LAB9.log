@@ -1,0 +1,3 @@
+﻿  ACD.LAB9.cpp
+C:\Users\Admin\source\repos\ACD.LAB9\ACD.LAB9.cpp(100,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ACD.LAB9.vcxproj -> C:\Users\Admin\source\repos\ACD.LAB9\Debug\ACD.LAB9.exe

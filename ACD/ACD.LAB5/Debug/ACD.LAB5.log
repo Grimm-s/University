@@ -1,0 +1,11 @@
+﻿  ACD.LAB5.cpp
+C:\Users\Admin\source\repos\ACD.LAB5\ACD.LAB5.cpp(83,38): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\ACD.LAB5\ACD.LAB5.cpp(85,36): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\ACD.LAB5\ACD.LAB5.cpp(95,36): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\ACD.LAB5\ACD.LAB5.cpp(95,40): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\ACD.LAB5\ACD.LAB5.cpp(97,38): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\ACD.LAB5\ACD.LAB5.cpp(113,12): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\ACD.LAB5\ACD.LAB5.cpp(119,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\ACD.LAB5\ACD.LAB5.cpp(121,141): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\ACD.LAB5\ACD.LAB5.cpp(77): warning C4715: HashTable::Entering: значение возвращается не при всех путях выполнения
+  ACD.LAB5.vcxproj -> C:\Users\Admin\source\repos\ACD.LAB5\Debug\ACD.LAB5.exe

@@ -1,0 +1,6 @@
+﻿  ACD.LAB2.2(2).cpp
+C:\Users\Admin\source\repos\2 семестр\ACD\ACD.LAB2.2(2)\ACD.LAB2.2(2).cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Admin\source\repos\2 семестр\ACD\ACD.LAB2.2(2)\ACD.LAB2.2(2).cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Admin\source\repos\2 семестр\ACD\ACD.LAB2.2(2)\ACD.LAB2.2(2).cpp(38,4): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Admin\source\repos\2 семестр\ACD\ACD.LAB2.2(2)\ACD.LAB2.2(2).cpp(55,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ACD.LAB2.2(2).vcxproj -> C:\Users\Admin\source\repos\2 семестр\ACD\ACD.LAB2.2(2)\Debug\ACD.LAB2.2(2).exe

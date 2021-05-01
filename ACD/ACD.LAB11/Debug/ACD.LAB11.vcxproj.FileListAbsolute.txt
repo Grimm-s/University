@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\ACD.LAB11\Debug\ACD.LAB11.exe
+C:\Users\Admin\source\repos\ACD.LAB11\Debug\ACD.LAB11.pdb
+C:\Users\Admin\source\repos\2 семестр\ACD\ACD.LAB11\Debug\ACD.LAB11.exe
+C:\Users\Admin\source\repos\2 семестр\ACD\ACD.LAB11\Debug\ACD.LAB11.pdb

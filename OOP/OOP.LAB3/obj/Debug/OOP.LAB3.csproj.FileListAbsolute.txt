@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\OOP.LAB3\bin\Debug\OOP.LAB3.exe.config
+C:\Users\Admin\source\repos\OOP.LAB3\bin\Debug\OOP.LAB3.exe
+C:\Users\Admin\source\repos\OOP.LAB3\bin\Debug\OOP.LAB3.pdb
+C:\Users\Admin\source\repos\OOP.LAB3\obj\Debug\OOP.LAB3.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\OOP.LAB3\obj\Debug\OOP.LAB3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OOP.LAB3\obj\Debug\OOP.LAB3.exe
+C:\Users\Admin\source\repos\OOP.LAB3\obj\Debug\OOP.LAB3.pdb
+C:\Users\Admin\source\repos\2 семестр\OOP\OOP.LAB3\bin\Debug\OOP.LAB3.exe.config
+C:\Users\Admin\source\repos\2 семестр\OOP\OOP.LAB3\bin\Debug\OOP.LAB3.exe
+C:\Users\Admin\source\repos\2 семестр\OOP\OOP.LAB3\bin\Debug\OOP.LAB3.pdb
+C:\Users\Admin\source\repos\2 семестр\OOP\OOP.LAB3\obj\Debug\OOP.LAB3.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\2 семестр\OOP\OOP.LAB3\obj\Debug\OOP.LAB3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\2 семестр\OOP\OOP.LAB3\obj\Debug\OOP.LAB3.exe
+C:\Users\Admin\source\repos\2 семестр\OOP\OOP.LAB3\obj\Debug\OOP.LAB3.pdb

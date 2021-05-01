@@ -1,0 +1,6 @@
+﻿  ACD.LAB.6.3.cpp
+C:\Users\Admin\source\repos\ACD.LAB.6.3\ACD.LAB.6.3.cpp(7,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\ACD.LAB.6.3\ACD.LAB.6.3.cpp(9,18): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\ACD.LAB.6.3\ACD.LAB.6.3.cpp(9,45): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\ACD.LAB.6.3\ACD.LAB.6.3.cpp(23,27): warning C4018: <: несоответствие типов со знаком и без знака
+  ACD.LAB.6.3.vcxproj -> C:\Users\Admin\source\repos\ACD.LAB.6.3\Debug\ACD.LAB.6.3.exe

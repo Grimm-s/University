@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\NET.LAB.TCP.CLIENT\bin\Debug\NET.LAB.TCP.CLIENT.exe.config
+C:\Users\Admin\source\repos\NET.LAB.TCP.CLIENT\bin\Debug\NET.LAB.TCP.CLIENT.exe
+C:\Users\Admin\source\repos\NET.LAB.TCP.CLIENT\bin\Debug\NET.LAB.TCP.CLIENT.pdb
+C:\Users\Admin\source\repos\NET.LAB.TCP.CLIENT\obj\Debug\NET.LAB.TCP.CLIENT.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\NET.LAB.TCP.CLIENT\obj\Debug\NET.LAB.TCP.CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NET.LAB.TCP.CLIENT\obj\Debug\NET.LAB.TCP.CLIENT.exe
+C:\Users\Admin\source\repos\NET.LAB.TCP.CLIENT\obj\Debug\NET.LAB.TCP.CLIENT.pdb

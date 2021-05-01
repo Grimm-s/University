@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\NET.LAB.WEB.SERVER\bin\Debug\NET.LAB.WEB.SERVER.exe.config
+C:\Users\Admin\source\repos\NET.LAB.WEB.SERVER\bin\Debug\NET.LAB.WEB.SERVER.exe
+C:\Users\Admin\source\repos\NET.LAB.WEB.SERVER\bin\Debug\NET.LAB.WEB.SERVER.pdb
+C:\Users\Admin\source\repos\NET.LAB.WEB.SERVER\obj\Debug\NET.LAB.WEB.SERVER.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\NET.LAB.WEB.SERVER\obj\Debug\NET.LAB.WEB.SERVER.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NET.LAB.WEB.SERVER\obj\Debug\NET.LAB.WEB.SERVER.exe
+C:\Users\Admin\source\repos\NET.LAB.WEB.SERVER\obj\Debug\NET.LAB.WEB.SERVER.pdb

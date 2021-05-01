@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\NET.LAB.UDP.CLIENT\obj\Debug\NET.LAB.UDP.CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NET.LAB.UDP.CLIENT\bin\Debug\NET.LAB.UDP.CLIENT.exe.config
+C:\Users\Admin\source\repos\NET.LAB.UDP.CLIENT\bin\Debug\NET.LAB.UDP.CLIENT.exe
+C:\Users\Admin\source\repos\NET.LAB.UDP.CLIENT\bin\Debug\NET.LAB.UDP.CLIENT.pdb
+C:\Users\Admin\source\repos\NET.LAB.UDP.CLIENT\obj\Debug\NET.LAB.UDP.CLIENT.exe
+C:\Users\Admin\source\repos\NET.LAB.UDP.CLIENT\obj\Debug\NET.LAB.UDP.CLIENT.pdb
+C:\Users\Admin\source\repos\NET.LAB.UDP.CLIENT\obj\Debug\NET.LAB.UDP.CLIENT.csprojAssemblyReference.cache

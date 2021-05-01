@@ -1,0 +1,4 @@
+﻿  ACD.LAB4.cpp
+C:\Users\Admin\source\repos\ACD.LAB4\ACD.LAB4.cpp(179,6): warning C4101: k: неиспользованная локальная переменная
+C:\Users\Admin\source\repos\ACD.LAB4\ACD.LAB4.cpp(177,6): warning C4101: size: неиспользованная локальная переменная
+  ACD.LAB4.vcxproj -> C:\Users\Admin\source\repos\ACD.LAB4\Debug\ACD.LAB4.exe
