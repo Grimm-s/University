@@ -1,0 +1,2 @@
+C:\Users\Admin\source\repos\ACD.LAB14\Debug\ACD.LAB14.exe
+C:\Users\Admin\source\repos\ACD.LAB14\Debug\ACD.LAB14.pdb

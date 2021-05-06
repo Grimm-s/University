@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\2 семестр\OOP\DelegateTest\DelegateTest\bin\Debug\net5.0\DelegateTest.exe
+C:\Users\Admin\source\repos\2 семестр\OOP\DelegateTest\DelegateTest\bin\Debug\net5.0\DelegateTest.deps.json
+C:\Users\Admin\source\repos\2 семестр\OOP\DelegateTest\DelegateTest\bin\Debug\net5.0\DelegateTest.runtimeconfig.json
+C:\Users\Admin\source\repos\2 семестр\OOP\DelegateTest\DelegateTest\bin\Debug\net5.0\DelegateTest.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\2 семестр\OOP\DelegateTest\DelegateTest\bin\Debug\net5.0\DelegateTest.dll
+C:\Users\Admin\source\repos\2 семестр\OOP\DelegateTest\DelegateTest\bin\Debug\net5.0\ref\DelegateTest.dll
+C:\Users\Admin\source\repos\2 семестр\OOP\DelegateTest\DelegateTest\bin\Debug\net5.0\DelegateTest.pdb
+C:\Users\Admin\source\repos\2 семестр\OOP\DelegateTest\DelegateTest\obj\Debug\net5.0\DelegateTest.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\2 семестр\OOP\DelegateTest\DelegateTest\obj\Debug\net5.0\DelegateTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\2 семестр\OOP\DelegateTest\DelegateTest\obj\Debug\net5.0\DelegateTest.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\2 семестр\OOP\DelegateTest\DelegateTest\obj\Debug\net5.0\DelegateTest.AssemblyInfo.cs
+C:\Users\Admin\source\repos\2 семестр\OOP\DelegateTest\DelegateTest\obj\Debug\net5.0\DelegateTest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\2 семестр\OOP\DelegateTest\DelegateTest\obj\Debug\net5.0\DelegateTest.dll
+C:\Users\Admin\source\repos\2 семестр\OOP\DelegateTest\DelegateTest\obj\Debug\net5.0\ref\DelegateTest.dll
+C:\Users\Admin\source\repos\2 семестр\OOP\DelegateTest\DelegateTest\obj\Debug\net5.0\DelegateTest.pdb
+C:\Users\Admin\source\repos\2 семестр\OOP\DelegateTest\DelegateTest\obj\Debug\net5.0\DelegateTest.genruntimeconfig.cache

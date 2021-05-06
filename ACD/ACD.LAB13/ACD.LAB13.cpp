@@ -2,6 +2,142 @@
 #include <iostream>
 #include <vector>
 using namespace std;
+void Simple_Merging_Sort(char* name) {
+	int a1, a2, k, i, j, kol;
+	FILE* f, * f1, * f2;
+	kol = 0;
+	if ((f = fopen(name, "r")) == NULL)
+		printf("\n Вихідний файл не може бути прочитаний...");
+	else {
+		while (!feof(f)) {
+			fscanf(f, "%d", &a1);
+			kol++;
+		}
+		fclose(f);
+	}
+	k = 1;
+	while (k < kol) {
+		f = fopen(name, "r");
+		f1 = fopen("smsort_1", "w");
+		f2 = fopen("smsort_2", "w");
+		if (!feof(f)) fscanf(f, "%d", &a1);
+		while (!feof(f)) {
+			for (i = 0; i < k && !feof(f); i++) {
+				fprintf(f1, "%d ", a1);
+				fscanf(f, "%d", &a1);
+			}
+			for (j = 0; j < k && !feof(f); j++) {
+				fprintf(f2, "%d ", a1);
+				fscanf(f, "%d", &a1);
+			}
+		}
+		fclose(f2); fclose(f1); fclose(f);
+		f = fopen(name, "w");
+		f1 = fopen("smsort_1", "r");
+		f2 = fopen("smsort_2", "r");
+		if (!feof(f1)) fscanf(f1, "%d", &a1);
+		if (!feof(f2)) fscanf(f2, "%d", &a2);
+		while (!feof(f1) && !feof(f2)) {
+			i = 0;
+			j = 0;
+			while (i < k && j < k && !feof(f1) && !feof(f2)) {
+
+				if (a1 < a2) {
+					fprintf(f, "%d ", a1);
+					fscanf(f1, "%d", &a1);
+					i++;
+				}
+				else {
+					fprintf(f, "%d ", a2);
+					fscanf(f2, "%d", &a2);
+					j++;
+				}
+			}
+			while (i < k && !feof(f1)) {
+				fprintf(f, "%d ", a1);
+				fscanf(f1, "%d", &a1);
+				i++;
+			}
+			while (j < k && !feof(f2)) {
+				fprintf(f, "%d ", a2);
+				fscanf(f2, "%d", &a2);
+				j++;
+			}
+		}
+		while (!feof(f1)) {
+			fprintf(f, "%d ", a1);
+			fscanf(f1, "%d", &a1);
+		}
+		while (!feof(f2)) {
+			fprintf(f, "%d ", a2);
+			fscanf(f2, "%d", &a2);
+		}
+		fclose(f2);
+		fclose(f1);
+		fclose(f);
+		k *= 2;
+	}
+	remove("smsort_1");
+	remove("smsort_2");
+}
+void merge(int merged[], int lenD, int L[], int lenL, int R[], int lenR, int& k) {
+	int i = 0;
+	int j = 0;
+	while (i < lenL || j < lenR) {
+		if (i < lenL && j < lenR) {
+			k++;
+			if (L[i] <= R[j]) {
+				merged[i + j] = L[i];
+				i++;
+			}
+			else {
+				merged[i + j] = R[j];
+				j++;
+			}
+		}
+		else if (i < lenL) {
+			merged[i + j] = L[i];
+			i++;
+		}
+		else if (j < lenR) {
+			merged[i + j] = R[j];
+			j++;
+		}
+	}
+}
+void mergeSort(int data[], int lenD)
+{
+	int k = 0;
+	if (lenD > 1) {
+		int middle = lenD / 2;
+		int rem = lenD - middle;
+		int* L = new int[middle];
+		int* R = new int[rem];
+		for (int i = 0; i < lenD; i++) {
+			if (i < middle) {
+				L[i] = data[i];
+			}
+			else {
+				R[i - middle] = data[i];
+			}
+		}
+		cout << "Left:";
+		for (int i = 0; i < middle; i++)
+		{
+			cout << L[i] << " ";;
+		}
+		cout << endl;
+		cout << "Right:";
+		for (int i = 0; i < rem; i++)
+		{
+			cout << R[i] << " ";;
+		}
+		cout << endl;
+		mergeSort(L, middle);
+		mergeSort(R, rem);
+		merge(data, lenD, L, middle, R, rem, k);
+	}
+}
 int* natural_merge(int merged[], int size, int L[], int n, int R[], int m)
 {
 	int i = 0;
