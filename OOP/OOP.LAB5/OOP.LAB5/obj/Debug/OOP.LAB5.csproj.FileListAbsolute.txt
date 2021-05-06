@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\2 семестр\OOP\OOP.LAB5\OOP.LAB5\obj\Debug\OOP.LAB5.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\2 семестр\OOP\OOP.LAB5\OOP.LAB5\obj\Debug\OOP.LAB5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\2 семестр\OOP\OOP.LAB5\OOP.LAB5\bin\Debug\OOP.LAB5.exe
+C:\Users\Admin\source\repos\2 семестр\OOP\OOP.LAB5\OOP.LAB5\bin\Debug\OOP.LAB5.pdb
+C:\Users\Admin\source\repos\2 семестр\OOP\OOP.LAB5\OOP.LAB5\obj\Debug\OOP.LAB5.exe
+C:\Users\Admin\source\repos\2 семестр\OOP\OOP.LAB5\OOP.LAB5\obj\Debug\OOP.LAB5.pdb

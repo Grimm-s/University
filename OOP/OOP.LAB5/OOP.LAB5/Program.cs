@@ -10,6 +10,22 @@ namespace OOP.LAB5
     {
         static void Main(string[] args)
         {
+            Cats cats = new Cats();
+            cats[0] =new Cat("Майк", "Кот", "Angry", 5,14);
+            cats[1] =new Cat("Майк", "Кот", "Sad", 7,20);
+            cats[2] =new Cat("Джеки", "Собака", "Clever", 10,12);
+            cats[3] =new Cat("Билл", "Кот", "Shy", 4,15);
+            cats[4] =new Cat("Ванесса", "Собака", "Stupid", 15,8);
+            for (int i = 0; i < 5; i++)
+            {
+                cats[i].Display();
+            }
+
+            bool res = cats[0] > cats[1];
+            Console.WriteLine(res);
+            cats[2]++;
+            cats[2].Display();
+            
         }
     }
     class Animal
@@ -26,21 +42,15 @@ namespace OOP.LAB5
             BreedCharacteristic = null;
             Weight = 0;
         }
-        public Animal(string Name,string Breed,string BreedCharacteristic)
+        public Animal(string Name,string Breed,string BreedCharacteristic,int weight)
         {
             this.Name = Name;
             this.Breed = Breed;
             this.BreedCharacteristic = BreedCharacteristic;
+            this.Weight = Weight;
         }
 
-        public static bool operator >(Animal a1, Animal a2)
-        {
-            return a1.Weight > a2.Weight;
-        }
-        public static bool operator <(Animal a1, Animal a2)
-        {
-            return a1.Weight < a2.Weight;
-        }
+    
 
         public virtual void Display()
         {
@@ -49,21 +59,36 @@ namespace OOP.LAB5
     }
     class Cat : Animal
     {
-        public string Color { get; set; }
+        public int Age { get; set; }
 
         public Cat():base()
         {
-            Color = null;
+            Age = 0;
         }
-        public Cat(string Name, string Breed, string BreedCharacteristic,string Color) :base(Name,Breed,BreedCharacteristic)
+        public Cat(string Name, string Breed, string BreedCharacteristic,int Age,int Weight) :base(Name,Breed,BreedCharacteristic,Weight)
         {
-            this.Color = Color;
+            this.Age = Age;
         }
 
         public override void Display()
         {
-            Console.WriteLine($"Name:{Name} Breed:{Breed} BreedCharacteristic:{BreedCharacteristic} Color:{Color}");
+            Console.WriteLine($"Name:{Name} Breed:{Breed} BreedCharacteristic:{BreedCharacteristic} Age:{Age}");
         }
+        public static bool operator >(Cat a1, Cat a2)
+        {
+            return a1.Weight > a2.Weight;
+        }
+        public static bool operator <(Cat a1, Cat a2)
+        {
+            return a1.Weight < a2.Weight;
+        }
+
+        public static Cat operator ++(Cat a)
+        {
+            a.Age++;
+            return a;
+        }
+        
 
     }
     class Dog : Animal
@@ -73,7 +98,7 @@ namespace OOP.LAB5
         {
             Age = 0;
         }
-        public Dog(string Name, string Breed, string BreedCharacteristic,int Age):base(Name, Breed, BreedCharacteristic)
+        public Dog(string Name, string Breed, string BreedCharacteristic,int Age,int Weight):base(Name, Breed, BreedCharacteristic,Weight)
         {
             this.Age = Age;
         }
@@ -90,7 +115,7 @@ namespace OOP.LAB5
         {
             Talkative = false;
         }
-        public Parrot(string Name, string Breed, string BreedCharacteristic,bool Talkative):base(Name, Breed, BreedCharacteristic)
+        public Parrot(string Name, string Breed, string BreedCharacteristic,bool Talkative,int Weight):base(Name, Breed, BreedCharacteristic,Weight)
         {
             this.Talkative = Talkative;
         }
